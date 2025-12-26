@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-25)
+## Unreleased (2025-12-26)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`7d4e28d`](https://github.com/stdlib-js/stdlib/commit/7d4e28db4260c8a521bd104f17183b2462205e41) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`c0a74ec`](https://github.com/stdlib-js/stdlib/commit/c0a74ecefccbca56319a1a01af9854dec151ea29) - **feat:** add `object/for-in` _(by Neeraj Pathak)_
 
 </details>
